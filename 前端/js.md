@@ -1,6 +1,6 @@
 # **javascript学习**
 ## 1. 数据类型
-    * **基本数据类型**
+* 基本数据类型
         * Number,Boolean,String,Undefined,Null,Symbol
         1. 基本类型不可以改变，任何方法都无法改变基本类型的值。
         2. 不可以给基本类型添加属性或方法。
