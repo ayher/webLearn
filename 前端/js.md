@@ -1,12 +1,12 @@
 # **javascript学习**
 ## 1. 数据类型
 * 基本数据类型
-*Number,Boolean,String,Undefined,Null,Symbol*
+* Number,Boolean,String,Undefined,Null,Symbol*
         1. 基本类型不可以改变，任何方法都无法改变基本类型的值。
         2. 不可以给基本类型添加属性或方法。
         3. 基本类型存放于栈内存。包括变量标识符合变量的值。
 * 引用数据类型
-        **Object，Array**
+        * Object，Array*
         1. 可以添加属性和方法，也可以删除属性和方法。
         2. 引用类型存储需要栈区和堆区，栈区内存保存变量标识符和指向堆内存中该对象的指针，堆区保存变量的值。
 * 两者比较
