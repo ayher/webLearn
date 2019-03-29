@@ -146,5 +146,5 @@
     overflow: hidden;//超出部分设置为隐藏
     text-overflow:ellipsis;//文本超出部分显示为省略
     white-space: nowrap;//不换行 
-## 3. CSS权重优先级顺序
+## 4. CSS权重优先级顺序
 **!important > 行内样式 > ID > 类、伪类、属性 > 标签名 > 继承 > 通配符**
