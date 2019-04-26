@@ -156,3 +156,4 @@ Number,Boolean,String,Undefined,Null,Symbol
    1. height获取通过dom.style.height设置的元素的高度，如果有滚动条就需要减17px。=设置的height-滚动条height。
    2. clientHeight和height差不多需要加上padding。=height+2*padding。
    3. offsetHeight是clientHeight加上border。
+   4. scrollWidth、scrollHeight：元素的内容区域加上内边距加上溢出的尺寸，当没有溢出的时候与clientWidth、clientHeight相等.
