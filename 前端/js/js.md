@@ -153,6 +153,6 @@ Number,Boolean,String,Undefined,Null,Symbol
 **3.返回值**
         bind返回的是一个函数。
 ## 5.获取高度
-   height获取通过dom.style.height设置的元素的高度。=height
-   clientHeight和height差不多需要加上padding，如果有滚动条就需要加3px。=height+2*padding+滚动条height。
-   offsetHeight是clientHeight加上border。
+   1. height获取通过dom.style.height设置的元素的高度。=height
+   2. clientHeight和height差不多需要加上padding，如果有滚动条就需要加3px。=height+2*padding+滚动条height。
+   3. offsetHeight是clientHeight加上border。
